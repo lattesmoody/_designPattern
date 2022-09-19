@@ -37,16 +37,16 @@ public class test {
         a = nabi;
         a.say();
 
-        Animal c1 = new Animal();
+        //Animal c1 = new Animal();
         Animal c2 = new Cat();
-        Cat c3 = new Animal();
+        //Cat c3 = new Animal();
         Cat c4 = new Cat();
 
-        Animal d1 = new Canine();
+        //Animal d1 = new Canine();
         Animal d2 = new Dog();
         Canine d3 = new Dog();
-        Canine d4 = new Cat();
-        Dog d5 = new Canine();
+        //Canine d4 = new Cat();
+        //Dog d5 = new Canine();
         Dog d6 = new Dog();
     }
 }
